@@ -1,0 +1,44 @@
+.container {
+  width: 400px;
+  height: auto;
+  margin: 3rem auto;
+  background-color: rgb(250, 250, 250, 0.6);
+  padding: 3rem;
+  border-radius: 2rem;
+  box-shadow: 1px 3px 4px 3px rgba(0, 0, 0, 0.2);
+}
+
+.stdForm div:first-child {
+  margin-top: 0;
+}
+
+.stdForm div:last-child {
+  margin-bottom: 0;
+}
+
+.stdForm div {
+  margin: 1.5rem 0;
+}
+
+.stdForm label {
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.stdForm input {
+  width: 100%;
+  padding: 0.8rem 1rem;
+  border-radius: 0.8rem;
+  margin-top: 0.8rem;
+  border: none;
+}
+
+.stdForm .btn {
+  width: 100%;
+  background-color: #4000b8;
+  color: #fff;
+  font-size: 1.8rem;
+  font-weight: 600;
+  padding: 0.8rem 1rem;
+  border-radius: 0.8rem;
+}

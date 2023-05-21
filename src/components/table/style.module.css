@@ -1,0 +1,22 @@
+.container {
+  width: 100%;
+  max-width: 1200px;
+  min-width: 400px;
+  height: auto;
+  margin: 3rem auto;
+  background-color: rgb(250, 250, 250, 0.6);
+  padding: 3rem;
+  border-radius: 2rem;
+  box-shadow: 1px 3px 4px 3px rgba(0, 0, 0, 0.2);
+}
+
+table {
+  width: 100%;
+}
+
+table th,
+table td {
+  font-size: 1.8rem;
+  text-align: center;
+  padding: 0.5rem;
+}
